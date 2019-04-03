@@ -1,0 +1,8 @@
+/*_env/
+*.pyc
+*.pyo
+__pycache__/
+.tox/
+*.egg-info/
+pip-*-metadata/
+dist/
